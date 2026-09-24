@@ -3,6 +3,15 @@
     <channel>
         <title>Chatwoot Board</title>
         <item>
+            <title>Chatwoot Board 0.1.1</title>
+            <pubDate>Thu, 24 Sep 2026 17:45:54 +0000</pubDate>
+            <sparkle:channel>chatwoot-board</sparkle:channel>
+            <sparkle:version>0.1.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aminosman/chatwoot-board-releases/releases/download/v0.1.1/Chatwoot-Board-0.1.1-arm64.zip" length="98501651" type="application/octet-stream" sparkle:edSignature="daBkn1GsfiQ6POErQKJs47lxEIkSSIv82fFYSsqh3jFUXBTVYltjjuRiqhUYAlz/Umpyv6PAxxhpF/ldpbFQAA=="/>
+        </item>
+        <item>
             <title>Chatwoot Board 0.1.0</title>
             <pubDate>Thu, 24 Sep 2026 17:44:50 +0000</pubDate>
             <sparkle:channel>chatwoot-board</sparkle:channel>
