@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Chatwoot Board</title>
+        <item>
+            <title>Chatwoot Board 0.1.0</title>
+            <pubDate>Thu, 24 Sep 2026 17:44:50 +0000</pubDate>
+            <sparkle:channel>chatwoot-board</sparkle:channel>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aminosman/chatwoot-board-releases/releases/download/v0.1.0/Chatwoot-Board-0.1.0-arm64.zip" length="98501645" type="application/octet-stream" sparkle:edSignature="7jd9ztLRinHxSYI+27wxck9EzQNlMwlmviD095ESmN1/XTHe35DuCDjEof+BBHswwZU+TwAsoyPnNgJJc/EIAQ=="/>
+        </item>
+    </channel>
+</rss>
