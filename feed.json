@@ -1,5 +1,14 @@
 [
   {
+    "build": "0.1.2",
+    "channel": "chatwoot-board",
+    "date": "Thu, 24 Sep 2026 17:53:57 +0000",
+    "length": 98502193,
+    "marketing": "0.1.2",
+    "signature": "QmN1FWtnaauJ+aTt+GC74WZZ95lwkjGZC7S9JJZTRK34F4pgCU3tbhPn5t3VpY837s/+r6ztoI0oFGKSQxN0CQ==",
+    "url": "https://github.com/aminosman/chatwoot-board-releases/releases/download/v0.1.2/Chatwoot-Board-0.1.2-arm64.zip"
+  },
+  {
     "build": "0.1.1",
     "channel": "chatwoot-board",
     "date": "Thu, 24 Sep 2026 17:45:54 +0000",
