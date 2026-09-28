@@ -3,6 +3,15 @@
     <channel>
         <title>CareDay Support</title>
         <item>
+            <title>CareDay Support 0.2.1</title>
+            <pubDate>Mon, 28 Sep 2026 18:00:28 +0000</pubDate>
+            <sparkle:channel>chatwoot-board</sparkle:channel>
+            <sparkle:version>0.2.1</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aminosman/chatwoot-board-releases/releases/download/v0.2.1/Chatwoot-Board-0.2.1-arm64.zip" length="98547702" type="application/octet-stream" sparkle:edSignature="pT15NmIWfP3kKLWL3SjAUmIXKM7TnM8ywvqgqLPpWw9qW2l5uzqQPUssQJLhtWFu6pDzi3G63mDrQoPhcaUkDw=="/>
+        </item>
+        <item>
             <title>CareDay Support 0.2.0</title>
             <pubDate>Mon, 28 Sep 2026 16:27:18 +0000</pubDate>
             <sparkle:channel>chatwoot-board</sparkle:channel>
