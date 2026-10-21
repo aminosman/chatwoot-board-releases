@@ -1,5 +1,23 @@
 [
   {
+    "build": "0.2.11",
+    "channel": "chatwoot-board-win32-x64",
+    "date": "Wed, 21 Oct 2026 16:27:30 +0000",
+    "length": 112620944,
+    "marketing": "0.2.11",
+    "signature": "E5YFNktOy34Pa4r+VwFci+pW25Yj2LNOtW959HxO5TO/OIO8xZXsQpv0itBtL1c6Q0Di2D5BnJeQ6jq6fuqTAw==",
+    "url": "https://github.com/aminosman/chatwoot-board-releases/releases/download/v0.2.11/Chatwoot-Board-0.2.11-win-x64.zip"
+  },
+  {
+    "build": "0.2.11",
+    "channel": "chatwoot-board",
+    "date": "Wed, 21 Oct 2026 16:27:29 +0000",
+    "length": 98762539,
+    "marketing": "0.2.11",
+    "signature": "8EONy3PjhDEcHRkSo0fOIcuyj9FqB4jAQvfKVd6wjx5cISzLF/VQRcXromfSFY2KzOkZ2W0jI9oMX375OBZxBQ==",
+    "url": "https://github.com/aminosman/chatwoot-board-releases/releases/download/v0.2.11/Chatwoot-Board-0.2.11-arm64.zip"
+  },
+  {
     "build": "0.2.10",
     "channel": "chatwoot-board-win32-x64",
     "date": "Wed, 21 Oct 2026 15:40:55 +0000",
